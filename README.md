@@ -36,6 +36,10 @@ A simple single player Tic Tac Toe game against a computer that uses a heuristic
 ### Usages
 1. Run the main.py file from src folder:
 ```cmd
+    py .\src\main.py
+```
+or
+```cmd
     python .\src\main.py
 ```
 2. The game window will open. Click on the buttons to make your move.
